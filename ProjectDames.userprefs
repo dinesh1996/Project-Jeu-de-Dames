@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{8E0D5F48-256F-40B0-8966-3A31A7733D71}|Default">
+  <MonoDevelop.Ide.ItemProperties.ProjectDames PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProjectDames/Position.cs">
+    <Files>
+      <File FileName="ProjectDames/Program.cs" Line="13" Column="1" />
+      <File FileName="ProjectDames/Dame.cs" Line="24" Column="2" />
+      <File FileName="ProjectDames/JeuxStart.cs" Line="24" Column="17" />
+      <File FileName="ProjectDames/Plateau.cs" Line="5" Column="23" />
+      <File FileName="ProjectDames/Joueur.cs" Line="8" Column="18" />
+      <File FileName="ProjectDames/Pion.cs" Line="21" Column="14" />
+      <File FileName="ProjectDames/Position.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
